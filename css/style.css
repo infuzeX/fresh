@@ -28,9 +28,9 @@ a.disabled {
     background: #fb5496;
 }
 ::-webkit-scrollbar-thumb {
-    background-image: -webkit-linear-gradient(45deg, #ffbd84, #ff1f8e);
-    background-image: -o-linear-gradient(45deg, #ffbd84, #ff1f8e);
-    background-image: linear-gradient(45deg, #ffbd84, #ff1f8e);
+    background-image: -webkit-linear-gradient(45deg, #9AEBA6, #34BCE8);
+    background-image: -o-linear-gradient(45deg, #9AEBA6, #34BCE8);
+    background-image: linear-gradient(45deg, #9AEBA6, #34BCE8);
 }
 ::-moz-selection {
     background: rgba(166, 175, 189, 0.3);
@@ -1998,7 +1998,7 @@ footer.ftshap:before {
     right: auto;
 }
 .link-hover a:hover {
-    color: #ff1f8e !important;
+    color: #35C0ED !important;
 }
 .breadcrumb-area {
     padding: 150px 0 90px;
@@ -4809,9 +4809,9 @@ html .pb140 {
 }
 .text-effect-2 {
     background: #fc00c7;
-    background-image: -moz-linear-gradient(-45deg, #fc00c7 0, #1c4efd 54%, #00aded 100%);
-    background-image: -webkit-linear-gradient(-45deg, #fc00c7 0, #1c4efd 54%, #00aded 100%);
-    background-image: linear-gradient(135deg, #fc00c7 0, #1c4efd 54%, #00aded 100%);
+    background-image: -moz-linear-gradient(-45deg, #9AEBA6 0, #35C0ED 54%, #2F90B0 100%);
+    background-image: -webkit-linear-gradient(-45deg, #9AEBA6 0, #35C0ED 54%, #2F90B0 100%);
+    background-image: linear-gradient(135deg, #9AEBA6 0, #35C0ED 54%, #2F90B0 100%);
     -webkit-background-clip: text;
     -moz-background-clip: text;
     background-clip: text;
@@ -4857,9 +4857,11 @@ html .pb140 {
 }
 .bg-btn6 {
     background: #fc00c7;
-    background: -moz-linear-gradient(-45deg, #fc00c7 0, #1c4efd 54%, #00aded 100%);
-    background: -webkit-linear-gradient(-45deg, #fc00c7 0, #1c4efd 54%, #00aded 100%);
-    background: linear-gradient(135deg, #fc00c7 0, #1c4efd 54%, #00aded 100%);
+    color: black;
+    font-weight: 700;
+    background: -moz-linear-gradient(-45deg, #9AEBA6 0, #35C0ED 54%, #2F90B0 100%);
+    background: -webkit-linear-gradient(-45deg, #9AEBA6 0, #35C0ED 54%, #2F90B0  100%);
+    background: linear-gradient(135deg, #9AEBA6 0, #35C0ED 54%, #2F90B0  100%);
 }
 .bg-btn7 {
     background: #fc00c7;
